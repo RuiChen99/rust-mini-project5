@@ -1,5 +1,5 @@
-# rust-new-project-template
-A good starting point for a new Rust project
+# mini rust project for week5
+In this mini project, I learned to use chrono-tz dependency to get the current time of different zone.
 
 ## References
 
